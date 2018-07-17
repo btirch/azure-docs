@@ -245,5 +245,5 @@ Microsoft Azure, Office 365, and Dynamics 365 access can be easily configured to
 | Storage | Tables | Yes | | |
 | Storage | Disks | Yes | | |
 
-*: Public Preview in Azure Government as of May 2018  
-**: Private Preview in Azure Government as of May 2018
+**: Public Preview in Azure Government as of May 2018  
+***: Private Preview in Azure Government as of May 2018
